@@ -100,7 +100,7 @@ input, select, textarea {
 	}
 
 	h1 {
-		text-transform: lowercase;
+		text-transform: none;
 	}
 
 	h2 {
@@ -1593,7 +1593,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner-wrapper {
-		background: #c8d2bc url(images/bg1.png);
+		background: #c8d2bc url(images/janus.jpg);
 		padding: 2em 0;
 	}
 
@@ -1608,7 +1608,7 @@ input, select, textarea {
 		box-shadow: inset 0 0 0 20px #fff;
 	}
 
-		#banner h2 {
+		#banner h1 {
 			font-size: 3.3em;
 			color: #fff;
 			text-align: center;
@@ -1695,7 +1695,7 @@ input, select, textarea {
 				padding: 5em 0;
 			}
 
-				#banner h2 {
+				#banner h1 {
 					font-size: 3em;
 				}
 
@@ -1756,7 +1756,7 @@ input, select, textarea {
 				padding: 6em 0;
 			}
 
-				#banner h2 {
+				#banner h1 {
 					font-size: 2.5em;
 				}
 
@@ -1963,7 +1963,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner-wrapper {
-				background: #c8d2bc url(images/bg1.png);
+				background: #c8d2bc url(images/janus.jpg);
 				padding: 20px 0;
 			}
 
@@ -1972,7 +1972,7 @@ input, select, textarea {
 				padding: 4em 1em;
 			}
 
-				#banner h2 {
+				#banner h1 {
 					font-size: 2em;
 					letter-spacing: -2px;
 					line-height: 1.25em;
