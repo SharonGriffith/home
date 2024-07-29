@@ -90,7 +90,7 @@ input, select, textarea {
 		font-family: sans-serif;
 		background-color: #000000;;
 		font-family: 'Ubuntu Condensed', sans-serif;
-		color: seagreen;
+		color: #9FE2BF;
 		letter-spacing: -1px;
 	}
 
@@ -1502,10 +1502,10 @@ input, select, textarea {
 	}
 
 		.button:hover {
-			background-image: -moz-linear-gradient(top, seagreen, seagreen);
-			background-image: -webkit-linear-gradient(top, seagreen, seagreen);
-			background-image: -ms-linear-gradient(top, seagreen, seagreen);
-			background-image: linear-gradient(top, seagreen, seagreen);
+			background-image: -moz-linear-gradient(top, #9FE2BF, #9FE2BF);
+			background-image: -webkit-linear-gradient(top, #9FE2BF, #9FE2BF);
+			background-image: -ms-linear-gradient(top, #9FE2BF, #9FE2BF);
+			background-image: linear-gradient(top, #9FE2BF, #9FE2BF);
 			background-color: cornflowerblue;
 			box-shadow: inset 0px 0px 0px 1px cornflowerblue;
 		}
